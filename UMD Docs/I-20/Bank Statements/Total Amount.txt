@@ -1,0 +1,10 @@
+Sponsor 1 (Rajesh Joshi) -> 9,68,973.82 INR
+Sponsor 2 (Anjana Joshi) -> 11,72,850 INR
+Sponsor 3 (Sonia Sharma) -> 9,88,634.85 INR
+Grand Total -> 3,130,458.67 INR
+
+
+Sponsor 1 (Rajesh Joshi) -> 13636.37 USD
+Sponsor 2 (Anjana Joshi) -> 16505.52 USD
+Sponsor 3 (Sonia Sharma) -> 13913.06 USD
+Grand Total -> 44,054.95 USD
